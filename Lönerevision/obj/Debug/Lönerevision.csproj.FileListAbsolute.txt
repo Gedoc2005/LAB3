@@ -1,0 +1,6 @@
+c:\users\gedoc\documents\visual studio 2013\Projects\Lönerevision\bin\Debug\Lönerevision.exe.config
+c:\users\gedoc\documents\visual studio 2013\Projects\Lönerevision\bin\Debug\Lönerevision.exe
+c:\users\gedoc\documents\visual studio 2013\Projects\Lönerevision\bin\Debug\Lönerevision.pdb
+c:\users\gedoc\documents\visual studio 2013\Projects\Lönerevision\obj\Debug\Lönerevision.csprojResolveAssemblyReference.cache
+c:\users\gedoc\documents\visual studio 2013\Projects\Lönerevision\obj\Debug\Lönerevision.exe
+c:\users\gedoc\documents\visual studio 2013\Projects\Lönerevision\obj\Debug\Lönerevision.pdb
